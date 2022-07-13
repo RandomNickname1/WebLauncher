@@ -1,0 +1,22 @@
+{
+  "background_color": "#ffffff",
+  "description": "jyhtgvhjkjhytghygtrf",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "randomnickname1.github",
+  "orientation": "any",
+  "scope": "https://randomnickname1.github.io/WebLauncher/",
+  "short_name": "randomnickname1.github",
+  "start_url": "https://randomnickname1.github.io/WebLauncher/",
+  "theme_color": "#ffffff",
+  "categories": [],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "favicon.jpg",
+      "type": "image/jpeg",
+      "sizes": "121x121"
+    }
+  ],
+  "shortcuts": []
+}
